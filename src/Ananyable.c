@@ -6,7 +6,7 @@ TextLayer *text_layer;
 void handle_init(void) {
 	// Create a window and text layer
 	window = window_create();
-	text_layer = text_layer_create(GRect(0, 20, 144, 154));
+	text_layer = text_layer_create(GRect(0, 40, 144, 154));
 	
 	// Set the text, font, and text alignment
 	text_layer_set_text(text_layer, "Time to relax");
