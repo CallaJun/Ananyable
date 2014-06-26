@@ -1,0 +1,18 @@
+{
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Ananyable",
+    "longName": "Ananyable",
+    "versionCode": 1,
+    "appKeys": {},
+    "uuid": "12d548ef-4c4b-4b73-877b-cfcc1aff3a73",
+    "companyName": "calla@gmx.us",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
